@@ -1,0 +1,154 @@
+body {
+    margin: 0px;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    background-color: #EAE7C6;
+}
+
+
+/***TAG SELECTORS***/
+h1 {
+    width: 100%;
+    line-height: 1.5;
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', 'Festive', cursive
+}
+
+h3, h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bolder;
+}
+
+h2 {
+    font-size: 3rem;
+}
+
+hr {
+    border-style: dotted none none none;
+    border-width: 20px;
+    color: #C37B89;
+    width: 250px;
+    margin: 120px auto 120px auto;
+}
+
+a:link { text-decoration: none; }
+a:visited { text-decoration: none; }
+a:hover { text-decoration: none; }
+a:active { text-decoration: none; }
+
+
+/***CLASS SELECTORS***/
+
+.top-container {
+    background-color: #D1E8E4;
+    border-style: double;
+    border-width: 0 0 8px;
+    border-color: #BCCC9A;
+    padding-top: 100px;
+}
+
+.profile {
+    width: 30%;
+    margin: 100px auto 125px auto
+}
+
+.middle-container {
+}
+
+.bottom-container {
+    background-image: linear-gradient(#C37B89, #fc869e);
+    line-height: 3;
+    padding: 5px;
+}
+
+.skill-row { 
+    width: 40%;
+    margin: 100px auto 125px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.skill-row h3 {
+    font-size: 30px;
+}
+
+.h1title {
+    color: #C37B89;
+    font-size: 8rem;
+}
+
+.h2title {
+    color: #C37B89;
+    font-weight: bold;
+}
+
+.mountain {
+    position: relative;
+    top: 4px;
+    width: 750px;
+}
+
+.pro {
+    text-decoration: underline;
+}
+
+.top-cloud {
+    position: absolute;
+    top: 30px;
+    width: 300px;
+    left: 70%;
+}
+
+.bottom-cloud {
+    position: absolute;
+    right: 70%;
+    width: 300px;
+}
+
+.discord {
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.profile img {
+    padding-top: 5px;
+    width: 250px;
+}
+
+.codingimg {
+    margin-right: 30px;
+    width: 25%;
+    float: left;
+} 
+
+.instrumentsimg {
+    margin-left: 30px;
+    width: 25%;
+    float: right;
+}
+
+.contact-me {
+    line-height: 2;
+}
+
+.btn {
+    background-image: linear-gradient(#C37B89, #fc869e);
+    border-radius: 15px;
+    width: 300px;
+    margin: 60px auto 60px auto;
+}
+
+.btn h2 {
+    color: white;
+    font-size: 35px;
+}
+
+.footer-link {
+    margin: 30px;
+}
+
+.date {
+    color: white;
+}
+
+
