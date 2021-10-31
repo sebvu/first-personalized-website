@@ -25,10 +25,10 @@ h2 {
 
 hr {
     border-style: dotted none none none;
-    border-width: 20px;
+    border-width: 10px;
     color: #C37B89;
-    width: 250px;
-    margin: 120px auto 120px auto;
+    width: 80px;
+    margin: 60px auto 60px auto;
 }
 
 a:link { text-decoration: none; }
@@ -80,6 +80,7 @@ a:active { text-decoration: none; }
 .h2title {
     color: #C37B89;
     font-weight: bold;
+    font-size: 2.5rem;
 }
 
 .mountain {
